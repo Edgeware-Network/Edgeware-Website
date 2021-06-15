@@ -1,1 +1,1 @@
-self.__SSG_MANIFEST=new Set(["\u002F404","\u002Fcollectives","\u002Fdevelopers","\u002F","\u002Fkeygen","\u002Fmission","\u002Fpress","\u002Fprivacy"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
+self.__SSG_MANIFEST=new Set(["\u002F404","\u002Fcollectives","\u002Fdevelopers","\u002F","\u002Fjobs","\u002Fkeygen","\u002Fmission","\u002Fpress","\u002Fprivacy","\u002Fjobs\u002F[slug]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
